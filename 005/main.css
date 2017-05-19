@@ -1,0 +1,12 @@
+img > div{
+    color: rebeccapurple;
+}
+
+#float{
+    float: left;
+}
+
+#clear{
+    clear: both;
+    color: red;
+}
